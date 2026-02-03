@@ -1,1 +1,2 @@
-# mssql-server-dummy-data
+# SQL Server Dummy Data
+Dummy data for sql
